@@ -6,8 +6,8 @@ Projeto 03 em React, JavaScript, Vite e CSS. Página de links responsiva baseada
 
 ## 📸 Capturas de tela
 
-### Captura 1
-![Captura 1](tests/NOME-EXATO-DA-PRIMEIRA-IMAGEM.png)
+### Tela 1
+![Captura de tela 1](tests/Captura%20de%20tela%202026-11-10%20223059.png)
 
-### Captura 2
-![Captura 2](tests/NOME-EXATO-DA-SEGUNDA-IMAGEM.png)
+### Tela 2
+![Captura de tela 2](tests/Captura%20de%20tela%202026-11-10%20223060.png)
